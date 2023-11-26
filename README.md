@@ -12,3 +12,9 @@
  <p>A portfolio page using HTML5 and CSS3</p>
  <b>Editor : </b>
  <li>VS CODE</li>
+ <br>
+ <h2>Level 1 - Task 3</h2>
+ <h3>Temperature converter page</h3>
+ <p>A temperature converter page using HTML5, CSS3 and JavaScript</p>
+ <b>Editor : </b>
+ <li>VS CODE</li>
