@@ -5,3 +5,8 @@
  <p>A flight website landing page using HTML5 and CSS3</p>
  <b>Editor : </b>
  <li>VS CODE</li>
+ <br>
+ <h2>Level 1 - Task 2</h2>
+ <p>A portfolio page using HTML5 and CSS3</p>
+ <b>Editor : </b>
+ <li>VS CODE</li>
