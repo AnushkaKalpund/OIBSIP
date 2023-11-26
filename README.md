@@ -1,5 +1,5 @@
 # OIBSIP
- Oasis Infobyte Web development Internship repository with all my tasks.
+ Oasis Infobyte Web development Internship November Phase 2 batch repository with all my tasks.
  <br>
  <h2>Level 1 - Task 1</h2>
  <h3>Landing page</h3>
